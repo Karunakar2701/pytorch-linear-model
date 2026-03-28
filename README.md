@@ -26,40 +26,9 @@ Linear regression is one of the most fundamental machine learning algorithms use
 
 ```
 pytorch-linear-model/
-│── main.py          # Main training script
-│── requirements.txt # Dependencies
-│── README.md        # Project documentation
-```
-
----
-
-## 🚀 How to Run
-
-### 1. Clone the repository
-
-```
-git clone https://github.com/Karunakar2701/pytorch-linear-model.git
-cd pytorch-linear-model
-```
-
-### 2. Create virtual environment (optional)
-
-```
-python -m venv fast
-source fast/bin/activate   # Linux/Mac
-fast\Scripts\activate      # Windows
-```
-
-### 3. Install dependencies
-
-```
-pip install -r requirements.txt
-```
-
-### 4. Run the project
-
-```
-python main.py
+│── First Model.ipynb # Main training script
+│── requirements.txt  # Dependencies
+│── README.md         # Project documentation
 ```
 
 ---
