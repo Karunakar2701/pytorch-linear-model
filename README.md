@@ -45,7 +45,8 @@ pytorch-linear-model/
 ## ⚠️ Limitations
 
 * Uses a simple dataset
-* No advanced features like saving models or visualization
+* Simple model implementation
+  
 
 ---
 
