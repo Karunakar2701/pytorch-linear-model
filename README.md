@@ -52,7 +52,6 @@ pytorch-linear-model/
 ## 🔮 Future Improvements
 
 * Add visualization (matplotlib)
-* Save & load model
 * Use real-world datasets
 * Add multiple features (multivariate regression)
 
@@ -62,11 +61,5 @@ pytorch-linear-model/
 
 * PyTorch Documentation
 * Machine Learning basics
-
----
-
-## ⭐ Contribute
-
-Feel free to fork this repo and improve it!
 
 ---
